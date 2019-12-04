@@ -54,6 +54,7 @@
 > - header (`app/pug/includes/header.pug`)
 > - footer (`app/pug/includes/footer.pug`)
 > - slider (`app/pug/index.pug`).
+>
 > In `app/js/common.js` you can find script for *hamburger menu*, script for *slider* and *custom dots and arrows* for it.
 
 --- 
